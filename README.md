@@ -1,2 +1,2 @@
 # NumberSignSwap
-a Python script that checks if two input numbers have the same sign. If they do, it swaps their values; otherwise, it calculates their sum and product, storing them in the appropriate variables, and displays the updated values.
+ The "NumberSignSwap" Python script allows the user to input two numbers and checks whether they have the same sign or different signs. If the numbers have the same sign, it swaps their values. If they have different signs, it computes and stores the sum in the first number and the product in the second number and then displays the updated values of both numbers. This script provides a convenient way to manipulate and compare numbers based on their signs.
